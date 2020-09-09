@@ -9,7 +9,7 @@ function Home() {
       <Logo src={logo} alt="" />
       <BuildingImage src={building} alt="" />
       <Hello>Olá!</Hello>
-      <Description>Estamos construindo essa página,<br /> volte em breve para conferir!</Description>
+      <Description>Estamos construindo essa página,<br /> volte em breve para conferir!!</Description>
     </Wrapper>
   )
 }
